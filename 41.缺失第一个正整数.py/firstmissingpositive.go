@@ -54,8 +54,8 @@ func firstMissingPositive1(nums []int) int {
 func main() {
 	// names := []string{"Mary", "Anna", "Beth", "Johnny", "Beth"}
 	nums := []int{-1, -3, -2, 2}
-	fmt.Println(firstMissingPositive(nums))
+	fmt.Println(firstMissingPositive(nums))//第一种
 	fmt.Println("--------------------------")
-	fmt.Println(firstMissingPositive1(nums))
+	fmt.Println(firstMissingPositive1(nums))//第二种
 	// fmt.Println(inArray("Jack", names))
 }
