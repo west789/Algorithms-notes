@@ -16,11 +16,12 @@ def firstMissingPositive(nums):
                 return j
         return j
 
-        #44 ms 第二种方式
-        # n = 1
-        # while n in nums:
-        #     n += 1
-        # return n
+#44 ms 第二种方式
+def firstMissingPositive1(nums):
+    n = 1
+    while n in nums:
+        n += 1
+    return n
 
 nums = [1, 2]
 print(firstMissingPositive(nums))
