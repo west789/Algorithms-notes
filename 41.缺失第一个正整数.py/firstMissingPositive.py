@@ -3,7 +3,7 @@ def firstMissingPositive(nums):
         :type nums: List[int]
         :rtype: int
         """
-        # 80+ ms
+        # 80+ ms第一种方式
         j = 1
         nums_new = sorted(filter(lambda x:x>0, nums))
         print(nums_new)
@@ -16,11 +16,11 @@ def firstMissingPositive(nums):
                 return j
         return j
 
-        #44 ms
-        n = 1
-        while n in nums:
-            n += 1
-        return n
+        #44 ms 第二种方式
+        # n = 1
+        # while n in nums:
+        #     n += 1
+        # return n
 
 nums = [1, 2]
 print(firstMissingPositive(nums))
