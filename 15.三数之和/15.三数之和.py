@@ -25,6 +25,6 @@ def threeSum(nums):
                     res.append([i, mid, j])
     return res
 
-nums = [-2,-1,3]
+nums = [-2,-1,3,-2,-1,3]
 res = threeSum(nums)
 print(res)
