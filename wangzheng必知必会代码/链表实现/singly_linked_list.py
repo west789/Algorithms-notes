@@ -39,9 +39,9 @@ class SingleLinkedList:
         new_node._next = node._next
         node._next = new_node
 
-    def insert_value_after(self, value: int):
+    def insert_value_after(self, node: Node, value: int):
         new_node = Node(value)
-        self.insert_node_after(new_node)
+        self.insert_node_after(node, new_node)
 
     def insert_node_before(self, node: Node, new_node: Node):
         if not self._head or not node or not new_node:
