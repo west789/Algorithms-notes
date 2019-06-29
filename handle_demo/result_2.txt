@@ -1,0 +1,1300 @@
+﻿image (1).jpg detect_result：
+find  18 target(s) 
+DongDan_OpendWindow  score: 0.303234 
+location: top: 531、 bottom: 557、 left: 90、 right: 110
+DongDan_OpendWindow  score: 0.597157 
+location: top: 306、 bottom: 333、 left: 90、 right: 110
+DongDan_OpendWindow  score: 0.751256 
+location: top: 246、 bottom: 274、 left: 448、 right: 469
+DongDan_OpendWindow  score: 0.824089 
+location: top: 420、 bottom: 451、 left: 310、 right: 332
+DongDan_OpendWindow  score: 0.854859 
+location: top: 420、 bottom: 451、 left: 354、 right: 376
+DongDan_OpendWindow  score: 0.858248 
+location: top: 185、 bottom: 213、 left: 496、 right: 517
+DongDan_OpendWindow  score: 0.876225 
+location: top: 536、 bottom: 565、 left: 357、 right: 379
+DongDan_OpendWindow  score: 0.880535 
+location: top: 479、 bottom: 507、 left: 355、 right: 377
+DongDan_OpendWindow  score: 0.89221 
+location: top: 363、 bottom: 391、 left: 496、 right: 518
+DongDan_OpendWindow  score: 0.901341 
+location: top: 485、 bottom: 513、 left: 496、 right: 517
+DongDan_OpendWindow  score: 0.901912 
+location: top: 544、 bottom: 571、 left: 497、 right: 519
+DongDan_OpendWindow  score: 0.902151 
+location: top: 302、 bottom: 331、 left: 309、 right: 332
+DongDan_OpendWindow  score: 0.908689 
+location: top: 302、 bottom: 330、 left: 447、 right: 469
+DongDan_OpendWindow  score: 0.913728 
+location: top: 538、 bottom: 566、 left: 403、 right: 426
+DongDan_OpendWindow  score: 0.922985 
+location: top: 360、 bottom: 389、 left: 355、 right: 377
+DongDan_OpendWindow  score: 0.93395 
+location: top: 245、 bottom: 273、 left: 353、 right: 376
+DongDan_OpendWindow  score: 0.937966 
+location: top: 246、 bottom: 274、 left: 307、 right: 330
+DongDan_OpendWindow  score: 0.938878 
+location: top: 303、 bottom: 331、 left: 354、 right: 376
+
+image (10).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.807163 
+location: top: 209、 bottom: 227、 left: 341、 right: 362
+BeiJingZhan_OpendWindow  score: 0.824057 
+location: top: 207、 bottom: 229、 left: 249、 right: 272
+BeiJingZhan_OpendWindow  score: 0.825798 
+location: top: 349、 bottom: 377、 left: 494、 right: 515
+BeiJingZhan_OpendWindow  score: 0.83968 
+location: top: 402、 bottom: 435、 left: 271、 right: 286
+BeiJingZhan_OpendWindow  score: 0.856703 
+location: top: 154、 bottom: 176、 left: 546、 right: 569
+BeiJingZhan_OpendWindow  score: 0.873743 
+location: top: 353、 bottom: 387、 left: 269、 right: 284
+BeiJingZhan_OpendWindow  score: 0.887136 
+location: top: 354、 bottom: 387、 left: 217、 right: 232
+BeiJingZhan_OpendWindow  score: 0.887301 
+location: top: 398、 bottom: 426、 left: 563、 right: 585
+BeiJingZhan_OpendWindow  score: 0.891914 
+location: top: 261、 bottom: 279、 left: 557、 right: 578
+BeiJingZhan_OpendWindow  score: 0.895339 
+location: top: 300、 bottom: 328、 left: 495、 right: 515
+BeiJingZhan_OpendWindow  score: 0.905354 
+location: top: 266、 bottom: 292、 left: 58、 right: 79
+BeiJingZhan_OpendWindow  score: 0.918546 
+location: top: 162、 bottom: 183、 left: 250、 right: 272
+BeiJingZhan_OpendWindow  score: 0.928984 
+location: top: 401、 bottom: 435、 left: 317、 right: 333
+BeiJingZhan_OpendWindow  score: 0.932506 
+location: top: 409、 bottom: 436、 left: 27、 right: 50
+BeiJingZhan_OpendWindow  score: 0.940869 
+location: top: 308、 bottom: 337、 left: 61、 right: 82
+BeiJingZhan_OpendWindow  score: 0.94434 
+location: top: 162、 bottom: 185、 left: 279、 right: 301
+BeiJingZhan_OpendWindow  score: 0.950388 
+location: top: 309、 bottom: 337、 left: 160、 right: 181
+BeiJingZhan_OpendWindow  score: 0.951065 
+location: top: 262、 bottom: 289、 left: 156、 right: 178
+BeiJingZhan_OpendWindow  score: 0.967175 
+location: top: 308、 bottom: 337、 left: 119、 right: 142
+BeiJingZhan_OpendWindow  score: 0.982377 
+location: top: 169、 bottom: 187、 left: 154、 right: 176
+
+image (11).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.706616 
+location: top: 529、 bottom: 555、 left: 82、 right: 103
+BeiJingZhan_OpendWindow  score: 0.70735 
+location: top: 417、 bottom: 439、 left: 477、 right: 500
+BeiJingZhan_OpendWindow  score: 0.709527 
+location: top: 618、 bottom: 640、 left: 196、 right: 210
+BeiJingZhan_OpendWindow  score: 0.749826 
+location: top: 372、 bottom: 402、 left: 220、 right: 236
+BeiJingZhan_OpendWindow  score: 0.768191 
+location: top: 575、 bottom: 603、 left: 46、 right: 68
+BeiJingZhan_OpendWindow  score: 0.768523 
+location: top: 435、 bottom: 456、 left: 0、 right: 8
+BeiJingZhan_OpendWindow  score: 0.780111 
+location: top: 360、 bottom: 389、 left: 518、 right: 535
+BeiJingZhan_OpendWindow  score: 0.809135 
+location: top: 526、 bottom: 544、 left: 541、 right: 560
+BeiJingZhan_OpendWindow  score: 0.832589 
+location: top: 612、 bottom: 637、 left: 413、 right: 434
+BeiJingZhan_OpendWindow  score: 0.845354 
+location: top: 575、 bottom: 607、 left: 0、 right: 16
+BeiJingZhan_OpendWindow  score: 0.851982 
+location: top: 474、 bottom: 492、 left: 267、 right: 288
+BeiJingZhan_OpendWindow  score: 0.857819 
+location: top: 565、 bottom: 594、 left: 431、 right: 452
+BeiJingZhan_OpendWindow  score: 0.863816 
+location: top: 567、 bottom: 601、 left: 240、 right: 256
+BeiJingZhan_OpendWindow  score: 0.898314 
+location: top: 414、 bottom: 436、 left: 590、 right: 614
+BeiJingZhan_OpendWindow  score: 0.938472 
+location: top: 428、 bottom: 451、 left: 207、 right: 230
+BeiJingZhan_OpendWindow  score: 0.947519 
+location: top: 429、 bottom: 451、 left: 178、 right: 201
+BeiJingZhan_OpendWindow  score: 0.951069 
+location: top: 477、 bottom: 494、 left: 176、 right: 200
+BeiJingZhan_OpendWindow  score: 0.964257 
+location: top: 526、 bottom: 544、 left: 482、 right: 504
+BeiJingZhan_OpendWindow  score: 0.966669 
+location: top: 431、 bottom: 453、 left: 78、 right: 102
+BeiJingZhan_OpendWindow  score: 0.968992 
+location: top: 565、 bottom: 596、 left: 411、 right: 434
+
+image (12).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.724127 
+location: top: 572、 bottom: 585、 left: 476、 right: 484
+DongJiao_OpendWindow  score: 0.838082 
+location: top: 521、 bottom: 535、 left: 461、 right: 469
+DongJiao_OpendWindow  score: 0.901 
+location: top: 572、 bottom: 585、 left: 462、 right: 469
+
+image (13).jpg detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.755895 
+location: top: 590、 bottom: 625、 left: 1326、 right: 1355
+BeiJingZhan_OpendWindow  score: 0.756636 
+location: top: 568、 bottom: 596、 left: 450、 right: 478
+BeiJingZhan_OpendWindow  score: 0.758044 
+location: top: 640、 bottom: 671、 left: 1546、 right: 1581
+BeiJingZhan_OpendWindow  score: 0.758147 
+location: top: 468、 bottom: 488、 left: 542、 right: 573
+BeiJingZhan_OpendWindow  score: 0.762751 
+location: top: 414、 bottom: 438、 left: 725、 right: 745
+BeiJingZhan_OpendWindow  score: 0.764347 
+location: top: 614、 bottom: 643、 left: 457、 right: 481
+BeiJingZhan_OpendWindow  score: 0.768149 
+location: top: 477、 bottom: 498、 left: 301、 right: 332
+BeiJingZhan_OpendWindow  score: 0.771156 
+location: top: 572、 bottom: 600、 left: 315、 right: 345
+BeiJingZhan_OpendWindow  score: 0.772048 
+location: top: 414、 bottom: 438、 left: 687、 right: 705
+BeiJingZhan_OpendWindow  score: 0.777213 
+location: top: 704、 bottom: 737、 left: 706、 right: 723
+BeiJingZhan_OpendWindow  score: 0.778606 
+location: top: 541、 bottom: 570、 left: 1367、 right: 1401
+BeiJingZhan_OpendWindow  score: 0.784668 
+location: top: 542、 bottom: 570、 left: 1478、 right: 1511
+BeiJingZhan_OpendWindow  score: 0.785671 
+location: top: 604、 bottom: 634、 left: 888、 right: 913
+BeiJingZhan_OpendWindow  score: 0.800111 
+location: top: 706、 bottom: 737、 left: 663、 right: 679
+BeiJingZhan_OpendWindow  score: 0.805409 
+location: top: 389、 bottom: 412、 left: 1389、 right: 1408
+BeiJingZhan_OpendWindow  score: 0.809143 
+location: top: 468、 bottom: 490、 left: 666、 right: 690
+BeiJingZhan_OpendWindow  score: 0.84963 
+location: top: 458、 bottom: 479、 left: 937、 right: 967
+BeiJingZhan_OpendWindow  score: 0.907614 
+location: top: 402、 bottom: 428、 left: 981、 right: 1003
+BeiJingZhan_OpendWindow  score: 0.912174 
+location: top: 387、 bottom: 414、 left: 1306、 right: 1326
+BeiJingZhan_OpendWindow  score: 0.938649 
+location: top: 389、 bottom: 415、 left: 1359、 right: 1378
+
+image (14).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.8603 
+location: top: 343、 bottom: 376、 left: 245、 right: 260
+DongDan_OpendWindow  score: 0.864768 
+location: top: 0、 bottom: 31、 left: 118、 right: 135
+DongDan_OpendWindow  score: 0.872379 
+location: top: 55、 bottom: 90、 left: 118、 right: 134
+DongDan_OpendWindow  score: 0.875813 
+location: top: 231、 bottom: 265、 left: 152、 right: 168
+DongDan_OpendWindow  score: 0.880331 
+location: top: 174、 bottom: 208、 left: 87、 right: 103
+DongDan_OpendWindow  score: 0.889807 
+location: top: 117、 bottom: 149、 left: 327、 right: 343
+DongDan_OpendWindow  score: 0.897981 
+location: top: 283、 bottom: 319、 left: 273、 right: 288
+DongDan_OpendWindow  score: 0.899456 
+location: top: 54、 bottom: 89、 left: 52、 right: 68
+DongDan_OpendWindow  score: 0.900709 
+location: top: 283、 bottom: 317、 left: 301、 right: 317
+DongDan_OpendWindow  score: 0.906432 
+location: top: 58、 bottom: 93、 left: 211、 right: 227
+DongDan_OpendWindow  score: 0.916983 
+location: top: 285、 bottom: 320、 left: 243、 right: 258
+DongDan_OpendWindow  score: 0.917503 
+location: top: 115、 bottom: 150、 left: 86、 right: 103
+DongDan_OpendWindow  score: 0.917825 
+location: top: 60、 bottom: 95、 left: 270、 right: 286
+DongDan_OpendWindow  score: 0.920482 
+location: top: 115、 bottom: 151、 left: 119、 right: 135
+DongDan_OpendWindow  score: 0.920838 
+location: top: 116、 bottom: 150、 left: 211、 right: 227
+DongDan_OpendWindow  score: 0.925079 
+location: top: 229、 bottom: 263、 left: 243、 right: 259
+DongDan_OpendWindow  score: 0.925331 
+location: top: 56、 bottom: 92、 left: 150、 right: 165
+DongDan_OpendWindow  score: 0.927555 
+location: top: 115、 bottom: 150、 left: 182、 right: 198
+DongDan_OpendWindow  score: 0.93818 
+location: top: 58、 bottom: 94、 left: 241、 right: 257
+DongDan_OpendWindow  score: 0.939559 
+location: top: 116、 bottom: 150、 left: 242、 right: 258
+
+image (15).JPG detect_result：
+find  18 target(s) 
+DongDan_OpendWindow  score: 0.396117 
+location: top: 590、 bottom: 617、 left: 51、 right: 72
+DongDan_OpendWindow  score: 0.428476 
+location: top: 600、 bottom: 626、 left: 319、 right: 339
+DongDan_OpendWindow  score: 0.688576 
+location: top: 600、 bottom: 631、 left: 365、 right: 386
+DongDan_OpendWindow  score: 0.707274 
+location: top: 368、 bottom: 395、 left: 52、 right: 73
+DongDan_OpendWindow  score: 0.807188 
+location: top: 603、 bottom: 632、 left: 459、 right: 481
+DongDan_OpendWindow  score: 0.838235 
+location: top: 426、 bottom: 455、 left: 316、 right: 337
+DongDan_OpendWindow  score: 0.858524 
+location: top: 541、 bottom: 569、 left: 316、 right: 337
+DongDan_OpendWindow  score: 0.880876 
+location: top: 308、 bottom: 336、 left: 269、 right: 290
+DongDan_OpendWindow  score: 0.889118 
+location: top: 426、 bottom: 453、 left: 457、 right: 479
+DongDan_OpendWindow  score: 0.889135 
+location: top: 365、 bottom: 392、 left: 272、 right: 293
+DongDan_OpendWindow  score: 0.893221 
+location: top: 545、 bottom: 573、 left: 458、 right: 480
+DongDan_OpendWindow  score: 0.900054 
+location: top: 481、 bottom: 508、 left: 272、 right: 294
+DongDan_OpendWindow  score: 0.908331 
+location: top: 247、 bottom: 275、 left: 456、 right: 479
+DongDan_OpendWindow  score: 0.910045 
+location: top: 483、 bottom: 511、 left: 316、 right: 337
+DongDan_OpendWindow  score: 0.914108 
+location: top: 368、 bottom: 394、 left: 317、 right: 338
+DongDan_OpendWindow  score: 0.942911 
+location: top: 308、 bottom: 337、 left: 315、 right: 337
+DongDan_OpendWindow  score: 0.943136 
+location: top: 306、 bottom: 335、 left: 408、 right: 431
+DongDan_OpendWindow  score: 0.957412 
+location: top: 364、 bottom: 392、 left: 406、 right: 429
+
+image (16).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.679196 
+location: top: 274、 bottom: 303、 left: 4、 right: 25
+DongDan_OpendWindow  score: 0.680745 
+location: top: 451、 bottom: 480、 left: 5、 right: 27
+DongDan_OpendWindow  score: 0.718895 
+location: top: 333、 bottom: 362、 left: 4、 right: 25
+DongDan_OpendWindow  score: 0.728125 
+location: top: 585、 bottom: 612、 left: 398、 right: 418
+DongDan_OpendWindow  score: 0.730262 
+location: top: 90、 bottom: 118、 left: 394、 right: 415
+DongDan_OpendWindow  score: 0.765977 
+location: top: 397、 bottom: 426、 left: 396、 right: 417
+DongDan_OpendWindow  score: 0.789237 
+location: top: 392、 bottom: 421、 left: 6、 right: 26
+DongDan_OpendWindow  score: 0.790485 
+location: top: 216、 bottom: 245、 left: 95、 right: 117
+DongDan_OpendWindow  score: 0.819093 
+location: top: 154、 bottom: 182、 left: 147、 right: 169
+DongDan_OpendWindow  score: 0.824809 
+location: top: 208、 bottom: 244、 left: 618、 right: 634
+DongDan_OpendWindow  score: 0.834576 
+location: top: 269、 bottom: 304、 left: 618、 right: 635
+DongDan_OpendWindow  score: 0.84429 
+location: top: 28、 bottom: 61、 left: 583、 right: 600
+DongDan_OpendWindow  score: 0.865654 
+location: top: 207、 bottom: 244、 left: 551、 right: 567
+DongDan_OpendWindow  score: 0.899471 
+location: top: 146、 bottom: 182、 left: 584、 right: 600
+DongDan_OpendWindow  score: 0.90031 
+location: top: 511、 bottom: 539、 left: 147、 right: 169
+DongDan_OpendWindow  score: 0.912979 
+location: top: 333、 bottom: 361、 left: 147、 right: 170
+DongDan_OpendWindow  score: 0.931504 
+location: top: 510、 bottom: 539、 left: 51、 right: 73
+DongDan_OpendWindow  score: 0.933212 
+location: top: 149、 bottom: 178、 left: 393、 right: 415
+DongDan_OpendWindow  score: 0.942289 
+location: top: 454、 bottom: 482、 left: 146、 right: 169
+DongDan_OpendWindow  score: 0.952377 
+location: top: 273、 bottom: 301、 left: 97、 right: 120
+
+image (17).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.773612 
+location: top: 283、 bottom: 314、 left: 632、 right: 640
+DongDan_OpendWindow  score: 0.789004 
+location: top: 55、 bottom: 87、 left: 631、 right: 639
+DongDan_OpendWindow  score: 0.793263 
+location: top: 112、 bottom: 146、 left: 507、 right: 523
+DongDan_OpendWindow  score: 0.809724 
+location: top: 486、 bottom: 514、 left: 254、 right: 275
+DongDan_OpendWindow  score: 0.819117 
+location: top: 58、 bottom: 87、 left: 5、 right: 26
+DongDan_OpendWindow  score: 0.821231 
+location: top: 112、 bottom: 146、 left: 476、 right: 492
+DongDan_OpendWindow  score: 0.821249 
+location: top: 357、 bottom: 386、 left: 3、 right: 25
+DongDan_OpendWindow  score: 0.82724 
+location: top: 113、 bottom: 145、 left: 570、 right: 586
+DongDan_OpendWindow  score: 0.828628 
+location: top: 226、 bottom: 257、 left: 632、 right: 640
+DongDan_OpendWindow  score: 0.829895 
+location: top: 52、 bottom: 85、 left: 441、 right: 457
+DongDan_OpendWindow  score: 0.846539 
+location: top: 416、 bottom: 445、 left: 4、 right: 26
+DongDan_OpendWindow  score: 0.864636 
+location: top: 0、 bottom: 31、 left: 600、 right: 616
+DongDan_OpendWindow  score: 0.888755 
+location: top: 236、 bottom: 265、 left: 4、 right: 26
+DongDan_OpendWindow  score: 0.89087 
+location: top: 169、 bottom: 205、 left: 476、 right: 492
+DongDan_OpendWindow  score: 0.906787 
+location: top: 52、 bottom: 86、 left: 507、 right: 523
+DongDan_OpendWindow  score: 0.909162 
+location: top: 112、 bottom: 146、 left: 601、 right: 617
+DongDan_OpendWindow  score: 0.912127 
+location: top: 54、 bottom: 88、 left: 600、 right: 616
+DongDan_OpendWindow  score: 0.916007 
+location: top: 300、 bottom: 328、 left: 252、 right: 274
+DongDan_OpendWindow  score: 0.932581 
+location: top: 52、 bottom: 88、 left: 539、 right: 555
+DongDan_OpendWindow  score: 0.945759 
+location: top: 50、 bottom: 79、 left: 252、 right: 275
+
+image (18).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.844849 
+location: top: 313、 bottom: 331、 left: 486、 right: 506
+DongDan_OpendWindow  score: 0.856962 
+location: top: 245、 bottom: 279、 left: 224、 right: 240
+DongDan_OpendWindow  score: 0.863514 
+location: top: 528、 bottom: 563、 left: 257、 right: 273
+DongDan_OpendWindow  score: 0.87857 
+location: top: 182、 bottom: 218、 left: 130、 right: 146
+DongDan_OpendWindow  score: 0.890063 
+location: top: 301、 bottom: 337、 left: 131、 right: 147
+DongDan_OpendWindow  score: 0.8909 
+location: top: 243、 bottom: 278、 left: 131、 right: 148
+DongDan_OpendWindow  score: 0.892893 
+location: top: 301、 bottom: 336、 left: 194、 right: 210
+DongDan_OpendWindow  score: 0.893346 
+location: top: 119、 bottom: 155、 left: 64、 right: 80
+DongDan_OpendWindow  score: 0.894111 
+location: top: 302、 bottom: 336、 left: 224、 right: 240
+DongDan_OpendWindow  score: 0.894816 
+location: top: 195、 bottom: 228、 left: 394、 right: 410
+DongDan_OpendWindow  score: 0.900594 
+location: top: 241、 bottom: 276、 left: 66、 right: 83
+DongDan_OpendWindow  score: 0.907493 
+location: top: 471、 bottom: 506、 left: 285、 right: 301
+DongDan_OpendWindow  score: 0.920381 
+location: top: 246、 bottom: 281、 left: 283、 right: 299
+DongDan_OpendWindow  score: 0.921993 
+location: top: 300、 bottom: 336、 left: 100、 right: 116
+DongDan_OpendWindow  score: 0.923986 
+location: top: 361、 bottom: 397、 left: 100、 right: 117
+DongDan_OpendWindow  score: 0.925402 
+location: top: 302、 bottom: 336、 left: 255、 right: 271
+DongDan_OpendWindow  score: 0.930432 
+location: top: 473、 bottom: 507、 left: 256、 right: 272
+DongDan_OpendWindow  score: 0.938884 
+location: top: 415、 bottom: 451、 left: 255、 right: 271
+DongDan_OpendWindow  score: 0.941084 
+location: top: 244、 bottom: 278、 left: 163、 right: 179
+DongDan_OpendWindow  score: 0.94426 
+location: top: 245、 bottom: 281、 left: 254、 right: 270
+
+image (19).JPG detect_result：
+find  7 target(s) 
+GeTing_OpendWindow  score: 0.847481 
+location: top: 283、 bottom: 312、 left: 119、 right: 145
+GeTing_OpendWindow  score: 0.909252 
+location: top: 173、 bottom: 200、 left: 217、 right: 240
+GeTing_OpendWindow  score: 0.962909 
+location: top: 270、 bottom: 297、 left: 307、 right: 331
+GeTing_OpendWindow  score: 0.963125 
+location: top: 168、 bottom: 196、 left: 307、 right: 331
+GeTing_OpendWindow  score: 0.978067 
+location: top: 256、 bottom: 283、 left: 569、 right: 592
+GeTing_OpendWindow  score: 0.978784 
+location: top: 353、 bottom: 377、 left: 567、 right: 591
+GeTing_OpendWindow  score: 0.989482 
+location: top: 158、 bottom: 186、 left: 571、 right: 595
+
+image (2).JPG detect_result：
+find  10 target(s) 
+DongDan_OpendWindow  score: 0.625124 
+location: top: 600、 bottom: 632、 left: 389、 right: 411
+DongDan_OpendWindow  score: 0.637563 
+location: top: 603、 bottom: 632、 left: 529、 right: 552
+DongDan_OpendWindow  score: 0.728146 
+location: top: 425、 bottom: 453、 left: 529、 right: 550
+DongDan_OpendWindow  score: 0.753464 
+location: top: 543、 bottom: 570、 left: 123、 right: 144
+DongDan_OpendWindow  score: 0.904426 
+location: top: 539、 bottom: 568、 left: 480、 right: 502
+DongDan_OpendWindow  score: 0.904444 
+location: top: 543、 bottom: 571、 left: 341、 right: 363
+DongDan_OpendWindow  score: 0.919742 
+location: top: 483、 bottom: 511、 left: 480、 right: 503
+DongDan_OpendWindow  score: 0.934889 
+location: top: 486、 bottom: 514、 left: 340、 right: 362
+DongDan_OpendWindow  score: 0.956066 
+location: top: 544、 bottom: 572、 left: 388、 right: 411
+DongDan_OpendWindow  score: 0.9568 
+location: top: 485、 bottom: 514、 left: 387、 right: 410
+
+image (20).JPG detect_result：
+find  22 target(s) 
+DongDan_OpendWindow  score: 0.30723 
+location: top: 530、 bottom: 539、 left: 29、 right: 42
+DongDan_OpendWindow  score: 0.487844 
+location: top: 194、 bottom: 212、 left: 570、 right: 593
+BeiJingZhan_OpendWindow  score: 0.630128 
+location: top: 293、 bottom: 318、 left: 384、 right: 406
+BeiJingZhan_OpendWindow  score: 0.65063 
+location: top: 194、 bottom: 212、 left: 570、 right: 593
+BeiJingZhan_OpendWindow  score: 0.658385 
+location: top: 88、 bottom: 118、 left: 615、 right: 630
+BeiJingZhan_OpendWindow  score: 0.672533 
+location: top: 343、 bottom: 369、 left: 252、 right: 273
+BeiJingZhan_OpendWindow  score: 0.738281 
+location: top: 250、 bottom: 276、 left: 248、 right: 270
+BeiJingZhan_OpendWindow  score: 0.800357 
+location: top: 243、 bottom: 271、 left: 479、 right: 502
+BeiJingZhan_OpendWindow  score: 0.801417 
+location: top: 202、 bottom: 223、 left: 94、 right: 117
+BeiJingZhan_OpendWindow  score: 0.825744 
+location: top: 289、 bottom: 315、 left: 480、 right: 502
+BeiJingZhan_OpendWindow  score: 0.836629 
+location: top: 149、 bottom: 167、 left: 601、 right: 623
+BeiJingZhan_OpendWindow  score: 0.844405 
+location: top: 147、 bottom: 169、 left: 474、 right: 497
+BeiJingZhan_OpendWindow  score: 0.852769 
+location: top: 247、 bottom: 274、 left: 339、 right: 361
+BeiJingZhan_OpendWindow  score: 0.870129 
+location: top: 383、 bottom: 416、 left: 592、 right: 608
+BeiJingZhan_OpendWindow  score: 0.897781 
+location: top: 246、 bottom: 273、 left: 384、 right: 407
+BeiJingZhan_OpendWindow  score: 0.912388 
+location: top: 159、 bottom: 181、 left: 94、 right: 117
+BeiJingZhan_OpendWindow  score: 0.918261 
+location: top: 333、 bottom: 367、 left: 591、 right: 607
+BeiJingZhan_OpendWindow  score: 0.928703 
+location: top: 334、 bottom: 368、 left: 539、 right: 554
+BeiJingZhan_OpendWindow  score: 0.94896 
+location: top: 149、 bottom: 166、 left: 569、 right: 590
+BeiJingZhan_OpendWindow  score: 0.952424 
+location: top: 388、 bottom: 416、 left: 351、 right: 374
+BeiJingZhan_OpendWindow  score: 0.953657 
+location: top: 154、 bottom: 176、 left: 233、 right: 256
+BeiJingZhan_OpendWindow  score: 0.955282 
+location: top: 292、 bottom: 319、 left: 440、 right: 462
+
+image (21).JPG detect_result：
+find  21 target(s) 
+DongDan_OpendWindow  score: 0.685775 
+location: top: 206、 bottom: 224、 left: 440、 right: 461
+BeiJingZhan_OpendWindow  score: 0.82001 
+location: top: 256、 bottom: 283、 left: 344、 right: 365
+BeiJingZhan_OpendWindow  score: 0.835649 
+location: top: 403、 bottom: 431、 left: 217、 right: 237
+BeiJingZhan_OpendWindow  score: 0.836833 
+location: top: 264、 bottom: 290、 left: 58、 right: 79
+BeiJingZhan_OpendWindow  score: 0.842818 
+location: top: 347、 bottom: 381、 left: 457、 right: 473
+BeiJingZhan_OpendWindow  score: 0.859258 
+location: top: 297、 bottom: 331、 left: 501、 right: 518
+BeiJingZhan_OpendWindow  score: 0.859535 
+location: top: 157、 bottom: 180、 left: 465、 right: 488
+BeiJingZhan_OpendWindow  score: 0.884769 
+location: top: 304、 bottom: 332、 left: 350、 right: 371
+BeiJingZhan_OpendWindow  score: 0.886573 
+location: top: 348、 bottom: 382、 left: 405、 right: 421
+BeiJingZhan_OpendWindow  score: 0.891908 
+location: top: 397、 bottom: 429、 left: 507、 right: 523
+BeiJingZhan_OpendWindow  score: 0.90066 
+location: top: 345、 bottom: 379、 left: 556、 right: 572
+BeiJingZhan_OpendWindow  score: 0.913903 
+location: top: 172、 bottom: 189、 left: 101、 right: 122
+BeiJingZhan_OpendWindow  score: 0.924618 
+location: top: 396、 bottom: 430、 left: 460、 right: 475
+BeiJingZhan_OpendWindow  score: 0.938199 
+location: top: 158、 bottom: 180、 left: 436、 right: 458
+BeiJingZhan_OpendWindow  score: 0.939652 
+location: top: 164、 bottom: 181、 left: 340、 right: 362
+BeiJingZhan_OpendWindow  score: 0.941991 
+location: top: 357、 bottom: 385、 left: 120、 right: 143
+BeiJingZhan_OpendWindow  score: 0.943387 
+location: top: 265、 bottom: 291、 left: 113、 right: 134
+BeiJingZhan_OpendWindow  score: 0.950561 
+location: top: 306、 bottom: 333、 left: 252、 right: 275
+BeiJingZhan_OpendWindow  score: 0.970849 
+location: top: 303、 bottom: 332、 left: 306、 right: 329
+BeiJingZhan_OpendWindow  score: 0.971686 
+location: top: 259、 bottom: 287、 left: 250、 right: 274
+BeiJingZhan_OpendWindow  score: 0.975726 
+location: top: 259、 bottom: 287、 left: 206、 right: 229
+
+image (22).JPG detect_result：
+find  22 target(s) 
+DongDan_OpendWindow  score: 0.417829 
+location: top: 394、 bottom: 426、 left: 616、 right: 632
+DongDan_OpendWindow  score: 0.439102 
+location: top: 252、 bottom: 270、 left: 501、 right: 519
+BeiJingZhan_OpendWindow  score: 0.760145 
+location: top: 443、 bottom: 476、 left: 520、 right: 536
+BeiJingZhan_OpendWindow  score: 0.777268 
+location: top: 307、 bottom: 333、 left: 267、 right: 288
+BeiJingZhan_OpendWindow  score: 0.820638 
+location: top: 262、 bottom: 283、 left: 21、 right: 44
+BeiJingZhan_OpendWindow  score: 0.836737 
+location: top: 206、 bottom: 228、 left: 496、 right: 519
+BeiJingZhan_OpendWindow  score: 0.841488 
+location: top: 303、 bottom: 329、 left: 405、 right: 428
+BeiJingZhan_OpendWindow  score: 0.84693 
+location: top: 450、 bottom: 477、 left: 276、 right: 298
+BeiJingZhan_OpendWindow  score: 0.869237 
+location: top: 309、 bottom: 336、 left: 121、 right: 144
+BeiJingZhan_OpendWindow  score: 0.882315 
+location: top: 395、 bottom: 427、 left: 465、 right: 481
+BeiJingZhan_OpendWindow  score: 0.885488 
+location: top: 405、 bottom: 432、 left: 125、 right: 147
+BeiJingZhan_OpendWindow  score: 0.90018 
+location: top: 349、 bottom: 377、 left: 409、 right: 431
+BeiJingZhan_OpendWindow  score: 0.905416 
+location: top: 405、 bottom: 433、 left: 179、 right: 201
+BeiJingZhan_OpendWindow  score: 0.908393 
+location: top: 344、 bottom: 377、 left: 562、 right: 578
+BeiJingZhan_OpendWindow  score: 0.916323 
+location: top: 442、 bottom: 476、 left: 566、 right: 582
+BeiJingZhan_OpendWindow  score: 0.93822 
+location: top: 353、 bottom: 381、 left: 311、 right: 333
+BeiJingZhan_OpendWindow  score: 0.94355 
+location: top: 306、 bottom: 333、 left: 309、 right: 331
+BeiJingZhan_OpendWindow  score: 0.953709 
+location: top: 350、 bottom: 378、 left: 366、 right: 388
+BeiJingZhan_OpendWindow  score: 0.960709 
+location: top: 207、 bottom: 228、 left: 401、 right: 425
+BeiJingZhan_OpendWindow  score: 0.963638 
+location: top: 223、 bottom: 240、 left: 21、 right: 42
+BeiJingZhan_OpendWindow  score: 0.96394 
+location: top: 308、 bottom: 336、 left: 173、 right: 197
+BeiJingZhan_OpendWindow  score: 0.965637 
+location: top: 217、 bottom: 235、 left: 159、 right: 181
+
+image (23).JPG detect_result：
+find  22 target(s) 
+DongDan_OpendWindow  score: 0.326241 
+location: top: 303、 bottom: 335、 left: 313、 right: 328
+DongDan_OpendWindow  score: 0.593359 
+location: top: 160、 bottom: 179、 left: 295、 right: 316
+BeiJingZhan_OpendWindow  score: 0.788354 
+location: top: 157、 bottom: 179、 left: 385、 right: 408
+BeiJingZhan_OpendWindow  score: 0.807398 
+location: top: 218、 bottom: 245、 left: 65、 right: 86
+BeiJingZhan_OpendWindow  score: 0.831381 
+location: top: 301、 bottom: 329、 left: 544、 right: 564
+BeiJingZhan_OpendWindow  score: 0.831389 
+location: top: 216、 bottom: 246、 left: 106、 right: 128
+BeiJingZhan_OpendWindow  score: 0.866619 
+location: top: 348、 bottom: 376、 left: 606、 right: 628
+BeiJingZhan_OpendWindow  score: 0.870781 
+location: top: 300、 bottom: 329、 left: 522、 right: 542
+BeiJingZhan_OpendWindow  score: 0.871203 
+location: top: 116、 bottom: 134、 left: 292、 right: 313
+BeiJingZhan_OpendWindow  score: 0.87176 
+location: top: 305、 bottom: 337、 left: 260、 right: 276
+BeiJingZhan_OpendWindow  score: 0.873302 
+location: top: 112、 bottom: 134、 left: 325、 right: 347
+BeiJingZhan_OpendWindow  score: 0.877431 
+location: top: 211、 bottom: 229、 left: 600、 right: 619
+BeiJingZhan_OpendWindow  score: 0.894911 
+location: top: 252、 bottom: 282、 left: 520、 right: 541
+BeiJingZhan_OpendWindow  score: 0.90283 
+location: top: 252、 bottom: 280、 left: 543、 right: 564
+BeiJingZhan_OpendWindow  score: 0.908252 
+location: top: 213、 bottom: 239、 left: 201、 right: 223
+BeiJingZhan_OpendWindow  score: 0.926767 
+location: top: 352、 bottom: 386、 left: 361、 right: 377
+BeiJingZhan_OpendWindow  score: 0.929165 
+location: top: 358、 bottom: 386、 left: 72、 right: 94
+BeiJingZhan_OpendWindow  score: 0.929845 
+location: top: 104、 bottom: 126、 left: 590、 right: 613
+BeiJingZhan_OpendWindow  score: 0.940463 
+location: top: 121、 bottom: 137、 left: 197、 right: 219
+BeiJingZhan_OpendWindow  score: 0.95616 
+location: top: 258、 bottom: 286、 left: 202、 right: 225
+BeiJingZhan_OpendWindow  score: 0.982083 
+location: top: 262、 bottom: 289、 left: 106、 right: 129
+BeiJingZhan_OpendWindow  score: 0.985253 
+location: top: 260、 bottom: 289、 left: 160、 right: 183
+
+image (24).JPG detect_result：
+find  6 target(s) 
+GeTing_OpendWindow  score: 0.55164 
+location: top: 101、 bottom: 124、 left: 0、 right: 18
+GeTing_OpendWindow  score: 0.834407 
+location: top: 92、 bottom: 120、 left: 94、 right: 118
+GeTing_OpendWindow  score: 0.943868 
+location: top: 187、 bottom: 215、 left: 298、 right: 323
+GeTing_OpendWindow  score: 0.952758 
+location: top: 174、 bottom: 201、 left: 486、 right: 510
+GeTing_OpendWindow  score: 0.970872 
+location: top: 78、 bottom: 106、 left: 395、 right: 419
+GeTing_OpendWindow  score: 0.977601 
+location: top: 73、 bottom: 99、 left: 485、 right: 510
+
+image (25).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.658649 
+location: top: 437、 bottom: 454、 left: 456、 right: 466
+DongJiao_OpendWindow  score: 0.813915 
+location: top: 438、 bottom: 451、 left: 444、 right: 450
+DongJiao_OpendWindow  score: 0.81906 
+location: top: 386、 bottom: 402、 left: 443、 right: 452
+
+image (26).JPG detect_result：
+find  10 target(s) 
+GeTing_OpendWindow  score: 0.578549 
+location: top: 164、 bottom: 187、 left: 583、 right: 605
+GeTing_OpendWindow  score: 0.615079 
+location: top: 177、 bottom: 202、 left: 385、 right: 407
+GeTing_OpendWindow  score: 0.886538 
+location: top: 0、 bottom: 22、 left: 393、 right: 417
+GeTing_OpendWindow  score: 0.920688 
+location: top: 170、 bottom: 193、 left: 520、 right: 543
+GeTing_OpendWindow  score: 0.946908 
+location: top: 80、 bottom: 104、 left: 590、 right: 613
+GeTing_OpendWindow  score: 0.953364 
+location: top: 288、 bottom: 312、 left: 165、 right: 188
+GeTing_OpendWindow  score: 0.95791 
+location: top: 193、 bottom: 219、 left: 168、 right: 192
+GeTing_OpendWindow  score: 0.97242 
+location: top: 191、 bottom: 216、 left: 231、 right: 254
+GeTing_OpendWindow  score: 0.985272 
+location: top: 273、 bottom: 297、 left: 380、 right: 405
+GeTing_OpendWindow  score: 0.98756 
+location: top: 93、 bottom: 121、 left: 168、 right: 194
+
+image (27).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.622997 
+location: top: 361、 bottom: 377、 left: 329、 right: 339
+DongJiao_OpendWindow  score: 0.713638 
+location: top: 311、 bottom: 327、 left: 316、 right: 326
+DongJiao_OpendWindow  score: 0.811902 
+location: top: 361、 bottom: 377、 left: 318、 right: 327
+
+image (28).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.687507 
+location: top: 344、 bottom: 359、 left: 596、 right: 605
+DongJiao_OpendWindow  score: 0.879083 
+location: top: 294、 bottom: 309、 left: 583、 right: 591
+DongJiao_OpendWindow  score: 0.894764 
+location: top: 345、 bottom: 358、 left: 584、 right: 590
+
+image (29).jpg detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.755895 
+location: top: 590、 bottom: 625、 left: 1326、 right: 1355
+BeiJingZhan_OpendWindow  score: 0.756636 
+location: top: 568、 bottom: 596、 left: 450、 right: 478
+BeiJingZhan_OpendWindow  score: 0.758044 
+location: top: 640、 bottom: 671、 left: 1546、 right: 1581
+BeiJingZhan_OpendWindow  score: 0.758147 
+location: top: 468、 bottom: 488、 left: 542、 right: 573
+BeiJingZhan_OpendWindow  score: 0.762751 
+location: top: 414、 bottom: 438、 left: 725、 right: 745
+BeiJingZhan_OpendWindow  score: 0.764347 
+location: top: 614、 bottom: 643、 left: 457、 right: 481
+BeiJingZhan_OpendWindow  score: 0.768149 
+location: top: 477、 bottom: 498、 left: 301、 right: 332
+BeiJingZhan_OpendWindow  score: 0.771156 
+location: top: 572、 bottom: 600、 left: 315、 right: 345
+BeiJingZhan_OpendWindow  score: 0.772048 
+location: top: 414、 bottom: 438、 left: 687、 right: 705
+BeiJingZhan_OpendWindow  score: 0.777213 
+location: top: 704、 bottom: 737、 left: 706、 right: 723
+BeiJingZhan_OpendWindow  score: 0.778606 
+location: top: 541、 bottom: 570、 left: 1367、 right: 1401
+BeiJingZhan_OpendWindow  score: 0.784668 
+location: top: 542、 bottom: 570、 left: 1478、 right: 1511
+BeiJingZhan_OpendWindow  score: 0.785671 
+location: top: 604、 bottom: 634、 left: 888、 right: 913
+BeiJingZhan_OpendWindow  score: 0.800111 
+location: top: 706、 bottom: 737、 left: 663、 right: 679
+BeiJingZhan_OpendWindow  score: 0.805409 
+location: top: 389、 bottom: 412、 left: 1389、 right: 1408
+BeiJingZhan_OpendWindow  score: 0.809143 
+location: top: 468、 bottom: 490、 left: 666、 right: 690
+BeiJingZhan_OpendWindow  score: 0.84963 
+location: top: 458、 bottom: 479、 left: 937、 right: 967
+BeiJingZhan_OpendWindow  score: 0.907614 
+location: top: 402、 bottom: 428、 left: 981、 right: 1003
+BeiJingZhan_OpendWindow  score: 0.912174 
+location: top: 387、 bottom: 414、 left: 1306、 right: 1326
+BeiJingZhan_OpendWindow  score: 0.938649 
+location: top: 389、 bottom: 415、 left: 1359、 right: 1378
+
+image (3).JPG detect_result：
+find  10 target(s) 
+BeiJingZhan_OpendWindow  score: 0.414762 
+location: top: 297、 bottom: 324、 left: 392、 right: 412
+BeiJingZhan_OpendWindow  score: 0.552849 
+location: top: 194、 bottom: 220、 left: 325、 right: 346
+BeiJingZhan_OpendWindow  score: 0.560078 
+location: top: 511、 bottom: 538、 left: 332、 right: 353
+BeiJingZhan_OpendWindow  score: 0.566437 
+location: top: 198、 bottom: 224、 left: 211、 right: 232
+BeiJingZhan_OpendWindow  score: 0.61962 
+location: top: 43、 bottom: 68、 left: 202、 right: 218
+BeiJingZhan_OpendWindow  score: 0.675538 
+location: top: 135、 bottom: 158、 left: 381、 right: 403
+BeiJingZhan_OpendWindow  score: 0.783828 
+location: top: 94、 bottom: 117、 left: 268、 right: 291
+BeiJingZhan_OpendWindow  score: 0.79198 
+location: top: 247、 bottom: 275、 left: 171、 right: 192
+BeiJingZhan_OpendWindow  score: 0.821533 
+location: top: 39、 bottom: 70、 left: 148、 right: 164
+BeiJingZhan_OpendWindow  score: 0.926111 
+location: top: 297、 bottom: 326、 left: 171、 right: 193
+
+image (30).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.634001 
+location: top: 426、 bottom: 450、 left: 853、 right: 880
+BeiJingZhan_OpendWindow  score: 0.636107 
+location: top: 452、 bottom: 473、 left: 100、 right: 127
+BeiJingZhan_OpendWindow  score: 0.638851 
+location: top: 578、 bottom: 611、 left: 503、 right: 518
+BeiJingZhan_OpendWindow  score: 0.642734 
+location: top: 680、 bottom: 715、 left: 216、 right: 241
+BeiJingZhan_OpendWindow  score: 0.643971 
+location: top: 541、 bottom: 567、 left: 207、 right: 234
+BeiJingZhan_OpendWindow  score: 0.677175 
+location: top: 541、 bottom: 566、 left: 247、 right: 273
+BeiJingZhan_OpendWindow  score: 0.697981 
+location: top: 445、 bottom: 468、 left: 245、 right: 272
+BeiJingZhan_OpendWindow  score: 0.708759 
+location: top: 676、 bottom: 709、 left: 506、 right: 522
+BeiJingZhan_OpendWindow  score: 0.709102 
+location: top: 442、 bottom: 465、 left: 340、 right: 367
+BeiJingZhan_OpendWindow  score: 0.71804 
+location: top: 370、 bottom: 399、 left: 781、 right: 797
+BeiJingZhan_OpendWindow  score: 0.7257 
+location: top: 635、 bottom: 670、 left: 65、 right: 89
+BeiJingZhan_OpendWindow  score: 0.740326 
+location: top: 545、 bottom: 570、 left: 112、 right: 138
+BeiJingZhan_OpendWindow  score: 0.766929 
+location: top: 677、 bottom: 711、 left: 462、 right: 475
+BeiJingZhan_OpendWindow  score: 0.775662 
+location: top: 482、 bottom: 506、 left: 530、 right: 558
+BeiJingZhan_OpendWindow  score: 0.792867 
+location: top: 536、 bottom: 552、 left: 804、 right: 826
+BeiJingZhan_OpendWindow  score: 0.795111 
+location: top: 539、 bottom: 564、 left: 343、 right: 369
+BeiJingZhan_OpendWindow  score: 0.803385 
+location: top: 625、 bottom: 659、 left: 557、 right: 572
+BeiJingZhan_OpendWindow  score: 0.838187 
+location: top: 628、 bottom: 660、 left: 459、 right: 472
+BeiJingZhan_OpendWindow  score: 0.844853 
+location: top: 629、 bottom: 662、 left: 405、 right: 421
+BeiJingZhan_OpendWindow  score: 0.860236 
+location: top: 429、 bottom: 453、 left: 734、 right: 761
+
+image (31).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.420834 
+location: top: 488、 bottom: 522、 left: 437、 right: 464
+DongDan_OpendWindow  score: 0.425951 
+location: top: 547、 bottom: 580、 left: 484、 right: 508
+DongDan_OpendWindow  score: 0.42723 
+location: top: 723、 bottom: 755、 left: 484、 right: 509
+DongDan_OpendWindow  score: 0.467425 
+location: top: 432、 bottom: 464、 left: 435、 right: 461
+DongDan_OpendWindow  score: 0.46772 
+location: top: 605、 bottom: 639、 left: 438、 right: 464
+DongDan_OpendWindow  score: 0.500474 
+location: top: 607、 bottom: 639、 left: 484、 right: 509
+DongDan_OpendWindow  score: 0.512726 
+location: top: 489、 bottom: 521、 left: 483、 right: 508
+DongDan_OpendWindow  score: 0.5156 
+location: top: 665、 bottom: 697、 left: 483、 right: 508
+DongDan_OpendWindow  score: 0.523427 
+location: top: 611、 bottom: 646、 left: 875、 right: 900
+DongDan_OpendWindow  score: 0.528496 
+location: top: 300、 bottom: 337、 left: 873、 right: 899
+DongDan_OpendWindow  score: 0.539858 
+location: top: 367、 bottom: 403、 left: 624、 right: 649
+DongDan_OpendWindow  score: 0.600731 
+location: top: 432、 bottom: 464、 left: 483、 right: 509
+DongDan_OpendWindow  score: 0.609037 
+location: top: 714、 bottom: 748、 left: 220、 right: 239
+DongDan_OpendWindow  score: 0.622651 
+location: top: 668、 bottom: 701、 left: 625、 right: 650
+DongDan_OpendWindow  score: 0.646673 
+location: top: 362、 bottom: 399、 left: 873、 right: 899
+DongDan_OpendWindow  score: 0.652978 
+location: top: 724、 bottom: 757、 left: 530、 right: 555
+DongDan_OpendWindow  score: 0.665313 
+location: top: 797、 bottom: 834、 left: 875、 right: 900
+DongDan_OpendWindow  score: 0.673262 
+location: top: 489、 bottom: 523、 left: 220、 right: 240
+DongDan_OpendWindow  score: 0.688433 
+location: top: 546、 bottom: 581、 left: 625、 right: 650
+DongDan_OpendWindow  score: 0.737069 
+location: top: 727、 bottom: 762、 left: 626、 right: 651
+
+image (32).JPG detect_result：
+find  20 target(s) 
+DongDan_OpendWindow  score: 0.380645 
+location: top: 491、 bottom: 524、 left: 438、 right: 459
+DongDan_OpendWindow  score: 0.388 
+location: top: 667、 bottom: 700、 left: 437、 right: 464
+DongDan_OpendWindow  score: 0.398661 
+location: top: 669、 bottom: 701、 left: 485、 right: 510
+DongDan_OpendWindow  score: 0.404536 
+location: top: 194、 bottom: 212、 left: 852、 right: 867
+DongDan_OpendWindow  score: 0.443506 
+location: top: 550、 bottom: 583、 left: 437、 right: 464
+DongDan_OpendWindow  score: 0.459881 
+location: top: 373、 bottom: 408、 left: 532、 right: 552
+DongDan_OpendWindow  score: 0.461778 
+location: top: 433、 bottom: 465、 left: 390、 right: 415
+DongDan_OpendWindow  score: 0.468575 
+location: top: 376、 bottom: 408、 left: 436、 right: 461
+DongDan_OpendWindow  score: 0.478722 
+location: top: 658、 bottom: 691、 left: 174、 right: 194
+DongDan_OpendWindow  score: 0.536967 
+location: top: 312、 bottom: 346、 left: 578、 right: 603
+DongDan_OpendWindow  score: 0.56334 
+location: top: 376、 bottom: 409、 left: 391、 right: 416
+DongDan_OpendWindow  score: 0.57568 
+location: top: 244、 bottom: 282、 left: 827、 right: 852
+DongDan_OpendWindow  score: 0.578154 
+location: top: 613、 bottom: 644、 left: 578、 right: 604
+DongDan_OpendWindow  score: 0.613417 
+location: top: 741、 bottom: 777、 left: 829、 right: 856
+DongDan_OpendWindow  score: 0.650362 
+location: top: 547、 bottom: 582、 left: 392、 right: 417
+DongDan_OpendWindow  score: 0.656704 
+location: top: 307、 bottom: 342、 left: 828、 right: 853
+DongDan_OpendWindow  score: 0.658354 
+location: top: 556、 bottom: 590、 left: 828、 right: 855
+DongDan_OpendWindow  score: 0.663422 
+location: top: 671、 bottom: 705、 left: 579、 right: 604
+DongDan_OpendWindow  score: 0.694029 
+location: top: 491、 bottom: 525、 left: 578、 right: 603
+DongDan_OpendWindow  score: 0.733931 
+location: top: 435、 bottom: 467、 left: 174、 right: 193
+
+image (33).JPG detect_result：
+find  15 target(s) 
+GeTing_OpendWindow  score: 0.517741 
+location: top: 12、 bottom: 35、 left: 840、 right: 866
+GeTing_OpendWindow  score: 0.564169 
+location: top: 100、 bottom: 122、 left: 776、 right: 802
+GeTing_OpendWindow  score: 0.718334 
+location: top: 186、 bottom: 211、 left: 711、 right: 738
+GeTing_OpendWindow  score: 0.731077 
+location: top: 100、 bottom: 120、 left: 836、 right: 861
+GeTing_OpendWindow  score: 0.743654 
+location: top: 187、 bottom: 212、 left: 642、 right: 670
+GeTing_OpendWindow  score: 0.803199 
+location: top: 97、 bottom: 123、 left: 712、 right: 738
+GeTing_OpendWindow  score: 0.833435 
+location: top: 196、 bottom: 219、 left: 508、 right: 536
+GeTing_OpendWindow  score: 0.928545 
+location: top: 295、 bottom: 318、 left: 503、 right: 532
+GeTing_OpendWindow  score: 0.933708 
+location: top: 18、 bottom: 41、 left: 515、 right: 544
+GeTing_OpendWindow  score: 0.935207 
+location: top: 212、 bottom: 236、 left: 358、 right: 387
+GeTing_OpendWindow  score: 0.95696 
+location: top: 229、 bottom: 252、 left: 22、 right: 58
+GeTing_OpendWindow  score: 0.983236 
+location: top: 118、 bottom: 141、 left: 292、 right: 324
+GeTing_OpendWindow  score: 0.984611 
+location: top: 219、 bottom: 243、 left: 289、 right: 322
+GeTing_OpendWindow  score: 0.988822 
+location: top: 311、 bottom: 334、 left: 287、 right: 319
+GeTing_OpendWindow  score: 0.990981 
+location: top: 125、 bottom: 155、 left: 23、 right: 57
+
+image (34).JPG detect_result：
+find  14 target(s) 
+GeTing_OpendWindow  score: 0.457858 
+location: top: 148、 bottom: 172、 left: 837、 right: 861
+GeTing_OpendWindow  score: 0.559327 
+location: top: 146、 bottom: 171、 left: 778、 right: 804
+GeTing_OpendWindow  score: 0.655623 
+location: top: 236、 bottom: 259、 left: 771、 right: 797
+GeTing_OpendWindow  score: 0.658315 
+location: top: 237、 bottom: 261、 left: 707、 right: 735
+GeTing_OpendWindow  score: 0.823128 
+location: top: 247、 bottom: 271、 left: 570、 right: 597
+GeTing_OpendWindow  score: 0.944648 
+location: top: 63、 bottom: 86、 left: 577、 right: 606
+GeTing_OpendWindow  score: 0.947386 
+location: top: 182、 bottom: 205、 left: 0、 right: 30
+GeTing_OpendWindow  score: 0.972032 
+location: top: 344、 bottom: 367、 left: 565、 right: 596
+GeTing_OpendWindow  score: 0.973873 
+location: top: 358、 bottom: 382、 left: 348、 right: 380
+GeTing_OpendWindow  score: 0.982485 
+location: top: 166、 bottom: 189、 left: 351、 right: 384
+GeTing_OpendWindow  score: 0.984327 
+location: top: 278、 bottom: 300、 left: 89、 right: 120
+GeTing_OpendWindow  score: 0.984809 
+location: top: 263、 bottom: 288、 left: 347、 right: 381
+GeTing_OpendWindow  score: 0.985139 
+location: top: 262、 bottom: 285、 left: 417、 right: 451
+GeTing_OpendWindow  score: 0.993421 
+location: top: 178、 bottom: 200、 left: 87、 right: 121
+
+image (35).JPG detect_result：
+find  14 target(s) 
+GeTing_OpendWindow  score: 0.413854 
+location: top: 311、 bottom: 325、 left: 0、 right: 5
+GeTing_OpendWindow  score: 0.674469 
+location: top: 248、 bottom: 272、 left: 842、 right: 867
+GeTing_OpendWindow  score: 0.687431 
+location: top: 251、 bottom: 275、 left: 775、 right: 802
+GeTing_OpendWindow  score: 0.73942 
+location: top: 164、 bottom: 186、 left: 847、 right: 875
+GeTing_OpendWindow  score: 0.791288 
+location: top: 259、 bottom: 283、 left: 640、 right: 668
+GeTing_OpendWindow  score: 0.907834 
+location: top: 79、 bottom: 103、 left: 647、 right: 676
+GeTing_OpendWindow  score: 0.9152 
+location: top: 356、 bottom: 380、 left: 636、 right: 665
+GeTing_OpendWindow  score: 0.96199 
+location: top: 275、 bottom: 298、 left: 489、 right: 521
+GeTing_OpendWindow  score: 0.967474 
+location: top: 293、 bottom: 317、 left: 158、 right: 190
+GeTing_OpendWindow  score: 0.969492 
+location: top: 369、 bottom: 393、 left: 418、 right: 451
+GeTing_OpendWindow  score: 0.972844 
+location: top: 195、 bottom: 218、 left: 63、 right: 98
+GeTing_OpendWindow  score: 0.984779 
+location: top: 192、 bottom: 215、 left: 157、 right: 190
+GeTing_OpendWindow  score: 0.988159 
+location: top: 182、 bottom: 205、 left: 421、 right: 454
+GeTing_OpendWindow  score: 0.990036 
+location: top: 278、 bottom: 299、 left: 420、 right: 451
+
+image (36).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.644292 
+location: top: 585、 bottom: 619、 left: 402、 right: 421
+BeiJingZhan_OpendWindow  score: 0.644912 
+location: top: 643、 bottom: 677、 left: 19、 right: 44
+BeiJingZhan_OpendWindow  score: 0.647479 
+location: top: 448、 bottom: 472、 left: 370、 right: 396
+BeiJingZhan_OpendWindow  score: 0.6869 
+location: top: 678、 bottom: 713、 left: 709、 right: 733
+BeiJingZhan_OpendWindow  score: 0.688069 
+location: top: 592、 bottom: 625、 left: 153、 right: 178
+BeiJingZhan_OpendWindow  score: 0.702499 
+location: top: 590、 bottom: 624、 left: 248、 right: 273
+BeiJingZhan_OpendWindow  score: 0.728254 
+location: top: 454、 bottom: 476、 left: 145、 right: 171
+BeiJingZhan_OpendWindow  score: 0.733414 
+location: top: 685、 bottom: 719、 left: 362、 right: 377
+BeiJingZhan_OpendWindow  score: 0.735229 
+location: top: 379、 bottom: 407、 left: 682、 right: 698
+BeiJingZhan_OpendWindow  score: 0.747195 
+location: top: 389、 bottom: 418、 left: 383、 right: 399
+BeiJingZhan_OpendWindow  score: 0.782799 
+location: top: 432、 bottom: 456、 left: 754、 right: 781
+BeiJingZhan_OpendWindow  score: 0.783822 
+location: top: 451、 bottom: 473、 left: 242、 right: 270
+BeiJingZhan_OpendWindow  score: 0.788705 
+location: top: 547、 bottom: 572、 left: 247、 right: 274
+BeiJingZhan_OpendWindow  score: 0.797258 
+location: top: 489、 bottom: 514、 left: 431、 right: 457
+BeiJingZhan_OpendWindow  score: 0.812017 
+location: top: 544、 bottom: 559、 left: 705、 right: 727
+BeiJingZhan_OpendWindow  score: 0.81969 
+location: top: 435、 bottom: 460、 left: 638、 right: 666
+BeiJingZhan_OpendWindow  score: 0.824614 
+location: top: 633、 bottom: 668、 left: 458、 right: 473
+BeiJingZhan_OpendWindow  score: 0.866476 
+location: top: 636、 bottom: 669、 left: 361、 right: 373
+BeiJingZhan_OpendWindow  score: 0.882586 
+location: top: 637、 bottom: 669、 left: 306、 right: 322
+BeiJingZhan_OpendWindow  score: 0.886531 
+location: top: 685、 bottom: 717、 left: 407、 right: 423
+
+image (37).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.501741 
+location: top: 407、 bottom: 429、 left: 12、 right: 29
+BeiJingZhan_OpendWindow  score: 0.507132 
+location: top: 692、 bottom: 726、 left: 299、 right: 322
+BeiJingZhan_OpendWindow  score: 0.510316 
+location: top: 647、 bottom: 681、 left: 154、 right: 180
+BeiJingZhan_OpendWindow  score: 0.574716 
+location: top: 393、 bottom: 420、 left: 272、 right: 287
+BeiJingZhan_OpendWindow  score: 0.57862 
+location: top: 647、 bottom: 679、 left: 176、 right: 202
+BeiJingZhan_OpendWindow  score: 0.592102 
+location: top: 691、 bottom: 726、 left: 241、 right: 267
+BeiJingZhan_OpendWindow  score: 0.658291 
+location: top: 380、 bottom: 410、 left: 593、 right: 609
+BeiJingZhan_OpendWindow  score: 0.690241 
+location: top: 553、 bottom: 577、 left: 230、 right: 256
+BeiJingZhan_OpendWindow  score: 0.697209 
+location: top: 641、 bottom: 677、 left: 297、 right: 321
+BeiJingZhan_OpendWindow  score: 0.728284 
+location: top: 504、 bottom: 527、 left: 17、 right: 44
+BeiJingZhan_OpendWindow  score: 0.731228 
+location: top: 647、 bottom: 682、 left: 47、 right: 63
+BeiJingZhan_OpendWindow  score: 0.735032 
+location: top: 559、 bottom: 574、 left: 294、 right: 316
+BeiJingZhan_OpendWindow  score: 0.760087 
+location: top: 445、 bottom: 469、 left: 341、 right: 367
+BeiJingZhan_OpendWindow  score: 0.796966 
+location: top: 537、 bottom: 562、 left: 768、 right: 794
+BeiJingZhan_OpendWindow  score: 0.807485 
+location: top: 539、 bottom: 564、 left: 657、 right: 683
+BeiJingZhan_OpendWindow  score: 0.846239 
+location: top: 476、 bottom: 501、 left: 824、 right: 852
+BeiJingZhan_OpendWindow  score: 0.878717 
+location: top: 598、 bottom: 632、 left: 0、 right: 10
+BeiJingZhan_OpendWindow  score: 0.879596 
+location: top: 699、 bottom: 731、 left: 0、 right: 13
+BeiJingZhan_OpendWindow  score: 0.900868 
+location: top: 451、 bottom: 474、 left: 224、 right: 253
+BeiJingZhan_OpendWindow  score: 0.93493 
+location: top: 433、 bottom: 457、 left: 713、 right: 741
+
+image (38).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.706538 
+location: top: 441、 bottom: 457、 left: 445、 right: 456
+DongJiao_OpendWindow  score: 0.951008 
+location: top: 440、 bottom: 457、 left: 433、 right: 442
+DongJiao_OpendWindow  score: 0.983392 
+location: top: 389、 bottom: 408、 left: 432、 right: 442
+
+image (39).JPG detect_result：
+find  3 target(s) 
+DongJiao_OpendWindow  score: 0.768139 
+location: top: 444、 bottom: 458、 left: 446、 right: 451
+DongJiao_OpendWindow  score: 0.83413 
+location: top: 392、 bottom: 410、 left: 445、 right: 453
+DongJiao_OpendWindow  score: 0.85476 
+location: top: 442、 bottom: 458、 left: 458、 right: 465
+
+image (4).JPG detect_result：
+find  23 target(s) 
+DongDan_OpendWindow  score: 0.31806 
+location: top: 291、 bottom: 323、 left: 572、 right: 587
+DongDan_OpendWindow  score: 0.389317 
+location: top: 488、 bottom: 497、 left: 10、 right: 21
+DongDan_OpendWindow  score: 0.414118 
+location: top: 147、 bottom: 169、 left: 552、 right: 575
+BeiJingZhan_OpendWindow  score: 0.778657 
+location: top: 103、 bottom: 126、 left: 551、 right: 574
+BeiJingZhan_OpendWindow  score: 0.788314 
+location: top: 341、 bottom: 374、 left: 574、 right: 589
+BeiJingZhan_OpendWindow  score: 0.801848 
+location: top: 204、 bottom: 231、 left: 325、 right: 346
+BeiJingZhan_OpendWindow  score: 0.80486 
+location: top: 201、 bottom: 228、 left: 460、 right: 482
+BeiJingZhan_OpendWindow  score: 0.844014 
+location: top: 294、 bottom: 325、 left: 520、 right: 536
+BeiJingZhan_OpendWindow  score: 0.857303 
+location: top: 347、 bottom: 375、 left: 329、 right: 351
+BeiJingZhan_OpendWindow  score: 0.878297 
+location: top: 102、 bottom: 124、 left: 581、 right: 604
+BeiJingZhan_OpendWindow  score: 0.879933 
+location: top: 303、 bottom: 330、 left: 179、 right: 201
+BeiJingZhan_OpendWindow  score: 0.893156 
+location: top: 204、 bottom: 231、 left: 362、 right: 384
+BeiJingZhan_OpendWindow  score: 0.89408 
+location: top: 247、 bottom: 276、 left: 464、 right: 485
+BeiJingZhan_OpendWindow  score: 0.904249 
+location: top: 303、 bottom: 330、 left: 232、 right: 254
+BeiJingZhan_OpendWindow  score: 0.904929 
+location: top: 207、 bottom: 234、 left: 174、 right: 197
+BeiJingZhan_OpendWindow  score: 0.907739 
+location: top: 161、 bottom: 182、 left: 75、 right: 98
+BeiJingZhan_OpendWindow  score: 0.925023 
+location: top: 251、 bottom: 279、 left: 365、 right: 386
+BeiJingZhan_OpendWindow  score: 0.929772 
+location: top: 241、 bottom: 275、 left: 615、 right: 632
+BeiJingZhan_OpendWindow  score: 0.949557 
+location: top: 247、 bottom: 277、 left: 421、 right: 442
+BeiJingZhan_OpendWindow  score: 0.953963 
+location: top: 115、 bottom: 133、 left: 214、 right: 235
+BeiJingZhan_OpendWindow  score: 0.964085 
+location: top: 122、 bottom: 139、 left: 76、 right: 98
+BeiJingZhan_OpendWindow  score: 0.968 
+location: top: 105、 bottom: 127、 left: 454、 right: 478
+BeiJingZhan_OpendWindow  score: 0.970601 
+location: top: 206、 bottom: 234、 left: 225、 right: 250
+
+image (5).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.864315 
+location: top: 309、 bottom: 336、 left: 173、 right: 195
+BeiJingZhan_OpendWindow  score: 0.870862 
+location: top: 216、 bottom: 234、 left: 209、 right: 229
+BeiJingZhan_OpendWindow  score: 0.875858 
+location: top: 395、 bottom: 429、 left: 520、 right: 536
+BeiJingZhan_OpendWindow  score: 0.877534 
+location: top: 207、 bottom: 229、 left: 431、 right: 453
+BeiJingZhan_OpendWindow  score: 0.892589 
+location: top: 447、 bottom: 480、 left: 424、 right: 440
+BeiJingZhan_OpendWindow  score: 0.89424 
+location: top: 447、 bottom: 479、 left: 470、 right: 487
+BeiJingZhan_OpendWindow  score: 0.900481 
+location: top: 357、 bottom: 385、 left: 214、 right: 235
+BeiJingZhan_OpendWindow  score: 0.902805 
+location: top: 208、 bottom: 230、 left: 404、 right: 426
+BeiJingZhan_OpendWindow  score: 0.903044 
+location: top: 397、 bottom: 431、 left: 422、 right: 438
+BeiJingZhan_OpendWindow  score: 0.905353 
+location: top: 223、 bottom: 239、 left: 67、 right: 89
+BeiJingZhan_OpendWindow  score: 0.906308 
+location: top: 453、 bottom: 480、 left: 181、 right: 203
+BeiJingZhan_OpendWindow  score: 0.916254 
+location: top: 408、 bottom: 435、 left: 28、 right: 51
+BeiJingZhan_OpendWindow  score: 0.919184 
+location: top: 408、 bottom: 436、 left: 83、 right: 105
+BeiJingZhan_OpendWindow  score: 0.924572 
+location: top: 310、 bottom: 337、 left: 211、 right: 233
+BeiJingZhan_OpendWindow  score: 0.924632 
+location: top: 314、 bottom: 341、 left: 23、 right: 46
+BeiJingZhan_OpendWindow  score: 0.92514 
+location: top: 307、 bottom: 334、 left: 309、 right: 332
+BeiJingZhan_OpendWindow  score: 0.929633 
+location: top: 398、 bottom: 432、 left: 370、 right: 386
+BeiJingZhan_OpendWindow  score: 0.933211 
+location: top: 353、 bottom: 381、 left: 273、 right: 295
+BeiJingZhan_OpendWindow  score: 0.957094 
+location: top: 209、 bottom: 231、 left: 304、 right: 328
+BeiJingZhan_OpendWindow  score: 0.979779 
+location: top: 313、 bottom: 340、 left: 78、 right: 101
+
+image (6).JPG detect_result：
+find  21 target(s) 
+DongDan_OpendWindow  score: 0.677079 
+location: top: 384、 bottom: 406、 left: 307、 right: 330
+BeiJingZhan_OpendWindow  score: 0.770439 
+location: top: 477、 bottom: 505、 left: 558、 right: 579
+BeiJingZhan_OpendWindow  score: 0.798527 
+location: top: 486、 bottom: 513、 left: 218、 right: 238
+BeiJingZhan_OpendWindow  score: 0.839726 
+location: top: 329、 bottom: 350、 left: 604、 right: 628
+BeiJingZhan_OpendWindow  score: 0.845752 
+location: top: 437、 bottom: 455、 left: 614、 right: 635
+BeiJingZhan_OpendWindow  score: 0.851945 
+location: top: 477、 bottom: 505、 left: 538、 right: 559
+BeiJingZhan_OpendWindow  score: 0.861637 
+location: top: 346、 bottom: 364、 left: 114、 right: 134
+BeiJingZhan_OpendWindow  score: 0.874917 
+location: top: 438、 bottom: 465、 left: 213、 right: 234
+BeiJingZhan_OpendWindow  score: 0.8754 
+location: top: 446、 bottom: 471、 left: 0、 right: 6
+BeiJingZhan_OpendWindow  score: 0.882403 
+location: top: 585、 bottom: 612、 left: 85、 right: 106
+BeiJingZhan_OpendWindow  score: 0.894518 
+location: top: 577、 bottom: 611、 left: 329、 right: 344
+BeiJingZhan_OpendWindow  score: 0.902369 
+location: top: 338、 bottom: 361、 left: 336、 right: 358
+BeiJingZhan_OpendWindow  score: 0.912576 
+location: top: 577、 bottom: 611、 left: 375、 right: 391
+BeiJingZhan_OpendWindow  score: 0.919221 
+location: top: 528、 bottom: 563、 left: 327、 right: 343
+BeiJingZhan_OpendWindow  score: 0.929994 
+location: top: 478、 bottom: 512、 left: 370、 right: 386
+BeiJingZhan_OpendWindow  score: 0.95076 
+location: top: 338、 bottom: 361、 left: 307、 right: 329
+BeiJingZhan_OpendWindow  score: 0.951766 
+location: top: 345、 bottom: 363、 left: 209、 right: 231
+BeiJingZhan_OpendWindow  score: 0.954409 
+location: top: 485、 bottom: 514、 left: 122、 right: 145
+BeiJingZhan_OpendWindow  score: 0.961598 
+location: top: 441、 bottom: 468、 left: 120、 right: 143
+BeiJingZhan_OpendWindow  score: 0.965946 
+location: top: 441、 bottom: 468、 left: 77、 right: 100
+BeiJingZhan_OpendWindow  score: 0.97986 
+location: top: 485、 bottom: 514、 left: 175、 right: 199
+
+image (7).JPG detect_result：
+find  10 target(s) 
+BeiJingZhan_OpendWindow  score: 0.371524 
+location: top: 260、 bottom: 282、 left: 271、 right: 285
+BeiJingZhan_OpendWindow  score: 0.489822 
+location: top: 415、 bottom: 441、 left: 100、 right: 120
+BeiJingZhan_OpendWindow  score: 0.606903 
+location: top: 259、 bottom: 282、 left: 241、 right: 259
+BeiJingZhan_OpendWindow  score: 0.772991 
+location: top: 511、 bottom: 538、 left: 432、 right: 453
+BeiJingZhan_OpendWindow  score: 0.796246 
+location: top: 255、 bottom: 285、 left: 187、 right: 204
+BeiJingZhan_OpendWindow  score: 0.826242 
+location: top: 408、 bottom: 435、 left: 363、 right: 384
+BeiJingZhan_OpendWindow  score: 0.861704 
+location: top: 410、 bottom: 437、 left: 254、 right: 276
+BeiJingZhan_OpendWindow  score: 0.922286 
+location: top: 308、 bottom: 331、 left: 308、 right: 332
+BeiJingZhan_OpendWindow  score: 0.955527 
+location: top: 462、 bottom: 491、 left: 209、 right: 231
+BeiJingZhan_OpendWindow  score: 0.961125 
+location: top: 514、 bottom: 543、 left: 210、 right: 232
+
+image (8).JPG detect_result：
+find  10 target(s) 
+BeiJingZhan_OpendWindow  score: 0.312943 
+location: top: 100、 bottom: 122、 left: 284、 right: 306
+BeiJingZhan_OpendWindow  score: 0.457891 
+location: top: 469、 bottom: 496、 left: 237、 right: 257
+BeiJingZhan_OpendWindow  score: 0.509921 
+location: top: 3、 bottom: 28、 left: 105、 right: 119
+BeiJingZhan_OpendWindow  score: 0.728981 
+location: top: 156、 bottom: 183、 left: 113、 right: 134
+BeiJingZhan_OpendWindow  score: 0.798995 
+location: top: 255、 bottom: 283、 left: 291、 right: 311
+BeiJingZhan_OpendWindow  score: 0.807379 
+location: top: 153、 bottom: 180、 left: 227、 right: 249
+BeiJingZhan_OpendWindow  score: 0.834725 
+location: top: 53、 bottom: 75、 left: 172、 right: 195
+BeiJingZhan_OpendWindow  score: 0.892921 
+location: top: 0、 bottom: 31、 left: 50、 right: 66
+BeiJingZhan_OpendWindow  score: 0.946871 
+location: top: 257、 bottom: 286、 left: 72、 right: 94
+BeiJingZhan_OpendWindow  score: 0.970544 
+location: top: 206、 bottom: 236、 left: 72、 right: 95
+
+image (9).JPG detect_result：
+find  20 target(s) 
+BeiJingZhan_OpendWindow  score: 0.82009 
+location: top: 255、 bottom: 273、 left: 517、 right: 538
+BeiJingZhan_OpendWindow  score: 0.821688 
+location: top: 207、 bottom: 229、 left: 454、 right: 477
+BeiJingZhan_OpendWindow  score: 0.839762 
+location: top: 310、 bottom: 336、 left: 196、 right: 218
+BeiJingZhan_OpendWindow  score: 0.843038 
+location: top: 395、 bottom: 429、 left: 541、 right: 558
+BeiJingZhan_OpendWindow  score: 0.848348 
+location: top: 397、 bottom: 432、 left: 444、 right: 459
+BeiJingZhan_OpendWindow  score: 0.875424 
+location: top: 354、 bottom: 383、 left: 335、 right: 356
+BeiJingZhan_OpendWindow  score: 0.902689 
+location: top: 398、 bottom: 432、 left: 391、 right: 407
+BeiJingZhan_OpendWindow  score: 0.904885 
+location: top: 447、 bottom: 480、 left: 446、 right: 462
+BeiJingZhan_OpendWindow  score: 0.910147 
+location: top: 453、 bottom: 481、 left: 201、 right: 224
+BeiJingZhan_OpendWindow  score: 0.924368 
+location: top: 314、 bottom: 341、 left: 46、 right: 69
+BeiJingZhan_OpendWindow  score: 0.926152 
+location: top: 347、 bottom: 381、 left: 488、 right: 504
+BeiJingZhan_OpendWindow  score: 0.934182 
+location: top: 408、 bottom: 435、 left: 51、 right: 73
+BeiJingZhan_OpendWindow  score: 0.934993 
+location: top: 307、 bottom: 334、 left: 332、 right: 355
+BeiJingZhan_OpendWindow  score: 0.937396 
+location: top: 356、 bottom: 384、 left: 236、 right: 258
+BeiJingZhan_OpendWindow  score: 0.942484 
+location: top: 310、 bottom: 337、 left: 234、 right: 256
+BeiJingZhan_OpendWindow  score: 0.951963 
+location: top: 408、 bottom: 435、 left: 104、 right: 127
+BeiJingZhan_OpendWindow  score: 0.95776 
+location: top: 354、 bottom: 382、 left: 293、 right: 314
+BeiJingZhan_OpendWindow  score: 0.962485 
+location: top: 223、 bottom: 239、 left: 86、 right: 107
+BeiJingZhan_OpendWindow  score: 0.969281 
+location: top: 209、 bottom: 231、 left: 326、 right: 350
+BeiJingZhan_OpendWindow  score: 0.974286 
+location: top: 313、 bottom: 341、 left: 98、 right: 122
+
+video1.mp4 detect_result：

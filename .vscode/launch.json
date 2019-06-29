@@ -65,7 +65,7 @@
             "request": "launch",
             "program": "${file}",
             // "console": "externalTerminal"
-            "console": "none"
+            "console": "internalConsole"
         }
     ]
 }
